@@ -1,3 +1,4 @@
+package Exercicio_1;
 // crio a classe (que é basicamente um molde para criação)
 public class Ninja {
     // atributos da classe

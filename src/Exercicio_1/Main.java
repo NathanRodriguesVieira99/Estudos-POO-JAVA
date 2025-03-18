@@ -1,4 +1,7 @@
+package Exercicio_1;
+
 // classe principal
+
 public class Main {
     public static void main(String[] args) {
         // crio um novo objeto da classe (que é uma instancia da classe pai)
